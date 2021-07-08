@@ -1,0 +1,5 @@
+Walter Green - U12345:Hello the save button is not working:02/11/2020     17:51
+Barry White - T12345:Noted Walter green. Duly have assigned bugs. Our developer is working on it:02/11/2020     17:54
+David White - D12345:Noted currently working fix the bug:02/11/2020     17:57
+David White - D12345:Submitted patch newEx.exe:02/11/2020     18:02
+John Davis - R12345:Noted David commencing testing:02/11/2020     18:18

@@ -1,0 +1,5 @@
+Walter Green - U12345:Hello, the exit button is not working:02/11/2020     17:52
+Barry White - T12345:Noted Walter green. Have already assigned bugs. Our developer is working on it:02/11/2020     17:55
+David White - D12345:Noted current working to fix the bug:02/11/2020     18:00
+David White - D12345:Submitted patch example5.exe ready to be tested.:02/11/2020     18:15
+John Davis - R12345:Noted david commencing testing:02/11/2020     18:19
